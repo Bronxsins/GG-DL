@@ -1,4 +1,4 @@
-# 🎮 Game Grids Downloader (GGDL) | [ **GGDL Latest Build**](https://github.com/Bronxsins/GG-DL/releases/latest)
+# 🎮 Game Grids Downloader (GGDL) | [📥 **GGDL Latest Build**](https://github.com/Bronxsins/GG-DL/releases/latest)
 
 > GGDL is an all-in-one desktop application designed for browsing, downloading game artwork, and managing metadata seamlessly in RetroBat.
 
@@ -21,6 +21,7 @@
 * **🔑 API Management:** Integrated key management with real-time validation.
 * **📖 In-App Guide:** Built-in "How To Use" documentation complete with direct links for obtaining your needed API keys and how to use the app.
 * **🐍 Portable Build:** Built with Python and PySide6, compiled via Nuitka into a single, highly efficient portable executable.
+
 ---
 
 ### 🎮 Screenshots
@@ -32,3 +33,14 @@
 | Game Info Editor | Game Art Editor |
 | :---: | :---: |
 | <img width="925" alt="3 Game Info Editor" src="https://github.com/user-attachments/assets/14cc337d-6dcd-409d-a631-e35cbc77a2e4" /> | <img width="925" alt="4 Game Art Editor" src="https://github.com/user-attachments/assets/71b0e59d-ce47-4f0b-af8c-74bf60c993e2" /> |
+
+---
+
+### 💬 Support & Feedback
+
+<div align="center">
+
+[![Report Bug](https://img.shields.io/badge/🐛_Report_a_Bug-D73A4A?style=for-the-badge)](https://github.com/Bronxsins/GG-DL/issues/new?template=bug_report.md)
+[![Request Feature](https://img.shields.io/badge/💡_Request_a_Feature-1F883D?style=for-the-badge)](https://github.com/Bronxsins/GG-DL/issues/new?template=feature_request.md)
+
+</div>
