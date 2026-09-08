@@ -4,7 +4,11 @@
 
 ---
 
+<div align="center">
+
 ### ✨ Core Features
+
+</div>
 
 * **🔍 Live Search:** Instant, as-you-type search suggestions for any title.
 * **🖼️ Artwork & Screenshots:** Access official assets categorized into Grids, Heroes, Logos, and Icons (sourced from SteamGridDB and RAWG.io).
@@ -15,7 +19,11 @@
 
 ---
 
+<div align="center">
+
 ### 🚀 Extras & Architecture
+
+</div>
 
 * **🎨 Customization:** Seamless Light/Dark mode with a fully adjustable global UI accent color.
 * **🔑 API Management:** Integrated key management with real-time validation.
@@ -24,7 +32,11 @@
 
 ---
 
+<div align="center">
+
 ### 🎮 Screenshots
+
+</div>
 
 | Browse & Search | Downloads |
 | :---: | :---: |
@@ -36,9 +48,9 @@
 
 ---
 
-### 💬 Support & Feedback
-
 <div align="center">
+
+### 💬 Support & Feedback
 
 [![Report Bug](https://img.shields.io/badge/🐛_Report_a_Bug-D73A4A?style=for-the-badge)](https://github.com/Bronxsins/GG-DL/issues/new?template=bug_report.md)
 [![Request Feature](https://img.shields.io/badge/💡_Request_a_Feature-1F883D?style=for-the-badge)](https://github.com/Bronxsins/GG-DL/issues/new?template=feature_request.md)
