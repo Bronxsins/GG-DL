@@ -8,7 +8,7 @@
 
 ### ✨ Core Features
 
-</div>
+<div align="center">
 
 * **🔍 Live Search:** Instant, as-you-type search suggestions for any title.
 * **🖼️ Artwork & Screenshots:** Access official assets categorized into Grids, Heroes, Logos, and Icons (sourced from SteamGridDB and RAWG.io).
@@ -17,22 +17,22 @@
 * **📂 History & Naming:** Generates consistent filenames (*e.g., Halo Infinite Box Art.png*) and logs activity in a dedicated history tab for quick folder access.
 * **⚡ High Performance:** Smooth, responsive browsing backed by lazy loading and infinite scroll.
 
----
+</div>
 
-<div align="center">
+---
 
 ### 🚀 Extras & Architecture
 
-</div>
+<div align="center">
 
 * **🎨 Customization:** Seamless Light/Dark mode with a fully adjustable global UI accent color.
 * **🔑 API Management:** Integrated key management with real-time validation.
 * **📖 In-App Guide:** Built-in "How To Use" documentation complete with direct links for obtaining your needed API keys and how to use the app.
 * **🐍 Portable Build:** Built with Python and PySide6, compiled via Nuitka into a single, highly efficient portable executable.
 
----
+</div>
 
-<div align="center">
+---
 
 ### 🎮 Screenshots
 
@@ -50,5 +50,9 @@
 
 [![Report Bug](https://img.shields.io/badge/🐛_Report_a_Bug-D73A4A?style=for-the-badge)](https://github.com/Bronxsins/GG-DL/issues/new?template=bug_report.md)
 [![Request Feature](https://img.shields.io/badge/💡_Request_a_Feature-1F883D?style=for-the-badge)](https://github.com/Bronxsins/GG-DL/issues/new?template=feature_request.md)
+
+---
+
+[📥 **Download Latest Build**](https://github.com/Bronxsins/GG-DL/releases/latest)
 
 </div>
