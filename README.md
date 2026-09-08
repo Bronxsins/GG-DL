@@ -34,7 +34,7 @@
 | <img width="925" alt="3 Game Info Editor" src="https://github.com/user-attachments/assets/14cc337d-6dcd-409d-a631-e35cbc77a2e4" /> | <img width="925" alt="4 Game Art Editor" src="https://github.com/user-attachments/assets/71b0e59d-ce47-4f0b-af8c-74bf60c993e2" /> |
 ---
 
-<div align="center">
+### 🗃️ Download GGDL
 
 [📥 **Download Latest Build**](https://github.com/Bronxsins/GG-DL/releases/latest)
 
