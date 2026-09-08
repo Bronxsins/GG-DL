@@ -1,4 +1,4 @@
-# 🎮 Game Grids Downloader (GG:DL)
+# 🎮 Game Grids Downloader (GGDL)
 
 > GG:DL is an all-in-one desktop application designed for browsing, downloading game artwork, and managing metadata seamlessly in RetroBat.
 
