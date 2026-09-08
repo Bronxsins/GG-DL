@@ -1,10 +1,10 @@
+<div align="center">
+
 # 🎮 Game Grids Downloader (GGDL) | [📥 **GGDL Latest Build**](https://github.com/Bronxsins/GG-DL/releases/latest)
 
 > GGDL is an all-in-one desktop application designed for browsing, downloading game artwork, and managing metadata seamlessly in RetroBat.
 
 ---
-
-<div align="center">
 
 ### ✨ Core Features
 
@@ -36,8 +36,6 @@
 
 ### 🎮 Screenshots
 
-</div>
-
 | Browse & Search | Downloads |
 | :---: | :---: |
 | <img width="926" alt="1 Browse-Search" src="https://github.com/user-attachments/assets/6c310bcd-7e33-48a1-ad2b-40744d313117" /> | <img width="926" alt="2 Downloads" src="https://github.com/user-attachments/assets/8f00a3e2-0330-43b7-850f-e9150b777730" /> |
@@ -47,8 +45,6 @@
 | <img width="925" alt="3 Game Info Editor" src="https://github.com/user-attachments/assets/14cc337d-6dcd-409d-a631-e35cbc77a2e4" /> | <img width="925" alt="4 Game Art Editor" src="https://github.com/user-attachments/assets/71b0e59d-ce47-4f0b-af8c-74bf60c993e2" /> |
 
 ---
-
-<div align="center">
 
 ### 💬 Support & Feedback
 
