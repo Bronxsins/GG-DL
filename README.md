@@ -24,6 +24,7 @@
 ### 🚀 Extras & Architecture
 
 </div>
+
 * **Customization:** Metadata management and editor. (currently supports RetroBat, Batocera, ES:DE, ESDE Portable)
 * **Customization:** Seamless Light/Dark mode with a fully adjustable global UI accent color.
 * **API Management:** Integrated key management with real-time validation.
