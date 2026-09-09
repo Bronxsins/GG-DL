@@ -28,7 +28,7 @@
 * **Customization:** Seamless light/dark mode with a fully adjustable global UI accent color.
 * **API Management:** Integrated api dev key management with real-time validation.
 * **In-App Guide:** Built-in Guide documentation complete with direct links for obtaining your needed API keys and how to use the app.
-* **Portable Build:** Built with Python and PySide6, compiled via Nuitka into a single efficient portable executable.
+* **Portable Build:** Built with Python featuring PySide6, compiled via Nuitka into a single efficient portable executable.
 
 ---
 
