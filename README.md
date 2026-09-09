@@ -24,7 +24,7 @@
 
 </div>
 
-* **Metadata Editor:** Metadata and art management. (currently supports RetroBat, Batocera, ES:DE, ES:DE Portable, Vanilla ES and RetroPie)
+* **Metadata Editor:** Metadata and art management. *(currently supports RetroBat, Batocera, ES:DE, ES:DE Portable, Vanilla ES and RetroPie)*
 * **Customization:** Seamless light/dark mode with a fully adjustable global UI accent color.
 * **API Management:** Integrated api dev key management with real-time validation.
 * **In-App Guide:** Built-in Guide documentation complete with direct links for obtaining your needed API keys and how to use the app.
