@@ -14,7 +14,6 @@
 * **Artwork & Screenshots:** Access official assets categorized into Grids, Heroes, Logos, and Icons (sourced from SteamGridDB and RAWG.io).
 * **Filtering & Sizing:** Filter by file type (*PNG, JPEG, GIF, WEBM, ICO, SVG*) and adjust thumbnail preview scaling.
 * **Flexible Actions:** Batch download selections, right-click for full-size previews, or double-click to instantly download individual items.
-* **History & Naming:** Generates consistent filenames (*e.g., Halo Infinite Box Art.png*) and logs activity in a dedicated history tab for quick folder access.
 * **High Performance:** Smooth, responsive and simple.
 
 ---
