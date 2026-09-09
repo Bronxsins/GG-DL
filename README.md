@@ -31,8 +31,21 @@
 * **Portable Build:** Built with Python featuring PySide6, compiled via Nuitka into a single efficient portable executable.
 
 ---
+<div align="center">
+
+  ### ⚠️ Antivirus / Windows Defender False Positive Notice
+
+>Because GGDL is written in Python and compiled into a standalone executable using Nuitka, Windows Defender may occasionally flag it as a false positive (such as Trojan:Win32/Bearfoos.A!ml) due to generic heuristic rules on un-signed binaries. The software is 100% safe.
+
+If Windows Defender has quarantined or removed the .exe, you can keep it running smoothly by restoring or redownloading the file, then heading into Windows Security > Virus & threat protection > Manage settings > Add or remove exclusions to add your ggdl.exe file as an exception. If Windows Defender stubbornly attempts to remove it again, simply restart your computer to clear out any cached security locks and apply the exception cleanly.
 
 <div align="center">
+
+[![VirusTotal Scan Status](https://img.shields.io/badge/VirusTotal-0%2F72%20Detections-brightgreen?style=flat-square&logo=virustotal)](https://www.virustotal.com/gui/file/d2f9b0a9664536ccd729f71a8f263d9dc42a18a4b426ff61376d1ff6aab27ef2/detection)
+
+<div align="center">
+
+---
 
 ### 🎮 Screenshots
 
