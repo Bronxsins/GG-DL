@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 Game Grids Downloader (GGDL) | [**Latest Build**](https://github.com/Bronxsins/GG-DL/releases/latest)
+# 🎮 Game Grids Downloader (GGDL)
 
 > GGDL is an all-in-one desktop application designed for browsing, downloading game artwork, and managing your emulators metadata.
 
