@@ -11,7 +11,7 @@
 </div>
 
 * **Live Search:** Instant, as-you-type search suggestions for any title.
-* **Artwork & Screenshots:** Access official assets categorized into Grids, Heroes, Logos, and Icons (sourced from SteamGridDB and RAWG.io).
+* **Artwork & Screenshots:** Access official assets categorized into Grids, Heroes, Logos, and Icons (sourced from SteamGridDB,RAWG.io and screenscraper.fr).
 * **Filtering & Sizing:** Filter by file type (*PNG, JPEG, GIF, WEBM, ICO, SVG*) and adjust thumbnail preview scaling.
 * **Flexible Actions:** Batch download selections, right-click for full-size previews, or double-click to instantly download individual items.
 * **High Performance:** Smooth, responsive and simple.
